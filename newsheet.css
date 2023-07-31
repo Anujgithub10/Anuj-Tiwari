@@ -1,0 +1,181 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* display: flex; */
+    background: #181313;
+    color: antiquewhite;
+    width: max-content;
+    font-family: 'jeminie';
+   
+}
+
+.first{
+    width: 100%;
+    height: 17vh;
+    vertical-align: middle;
+    flex-wrap: wrap;
+    display: inline-flex;
+    justify-content:space-between;
+}
+
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.frsp{
+    font-size: 1.25rem;
+    color: antiquewhite;
+    /* margin-left: -2.5%; */
+    align-items: self-start;
+    font-family: 'jeminie';
+    line-height: 15px;
+    text-align: left;
+}
+
+button{
+    display: inline-block;
+    vertical-align: middle;
+    border: 2px solid #e5e4df;
+    border-radius: 999px;
+    padding: 4px 23px;
+    width: auto;
+    background-color: rgba(0,0,0,0);
+    color: #e5e4df;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: all ease 1s;
+}
+
+button:hover{
+    background-color: rgb(100, 73, 38);
+    color: black; 
+}
+
+.butt{
+    display: inline;
+    margin-top: 3%;
+}
+
+.sec{
+    width: 100vw;
+    font-size: 30px;
+    margin-top: 24vh;
+    line-height: 33px;
+}
+
+.secp{
+    font-size: 3.4rem;
+    font-family: 'jeminie', ;
+    width: 100vw;
+    margin-left: 4.5%;
+    text-align: center;
+}
+
+@font-face{
+    font-family: "jeminie" ;
+    src: url('Dongle/Dongle-Light.ttf');
+}
+
+.link{
+    text-decoration: underline;
+    color: antiquewhite;
+    cursor: pointer;
+}
+
+a:hover{
+    color: rgb(100, 73, 38);
+    transform: rotate(5turn);
+}
+
+img{
+    width: 40px;
+    height: 40px;
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.imag{
+    margin-top: 2%;
+    left: 3%;
+}
+
+.wrds{
+    width: 100%;
+}
+
+.trdp{
+    font-size: 20px;
+    margin-top: 24%;
+}
+
+.wrds{
+    margin-left: 4.5%;
+    font-size: 40px;
+    width: 87vw;
+    line-height: 33px;
+}
+
+.brands{
+    width: 100%;
+}
+
+.rbrands{
+    font-size: 20px;
+    margin-top: 4%;
+    margin-left: 4.5%;
+}
+
+.brnd{
+    width: 87vw;
+    font-size: 40px;
+    line-height: 33px;
+    margin-left: 13.9%;
+}
+
+.bbrands{
+    margin-left: 4.5%;
+    font-size: 35px;
+    margin-bottom: 0%;
+}
+
+li{
+    list-style:decimal;
+}
+
+.con{
+    width: 100vw;
+    margin-left: 4.5%;
+    margin-top: 30%;
+}
+
+.cfon{
+    font-size: 20px;
+    /* margin-top: 10%; */
+    /* margin-left: 4.5%; */
+}
+
+.cmain{
+    width: 87vw;
+    font-size: 40px;
+    line-height: 33px;
+    margin-right: 4.5%;
+}
+
+.kind{
+    align-items: center;
+    width: 100vw;
+    margin-top: 20%;
+}
+
+.kinds{
+    font-size: 22px;
+    /* margin-left: 10%; */
+    line-height: 28px;
+    text-align: center;
+}
+
+
