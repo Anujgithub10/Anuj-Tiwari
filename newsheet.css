@@ -4,7 +4,7 @@ body{
     /* display: flex; */
     background: #181313;
     color: antiquewhite;
-    width: max-content;
+    width: 96vw;
     font-family: 'jeminie';
    
 }
@@ -61,7 +61,7 @@ button:hover{
 }
 
 .sec{
-    width: 100vw;
+    width: 96vw;
     font-size: 30px;
     margin-top: 24vh;
     line-height: 33px;
@@ -70,7 +70,7 @@ button:hover{
 .secp{
     font-size: 3.4rem;
     font-family: 'jeminie', ;
-    width: 100vw;
+    width: 89vw;
     margin-left: 4.5%;
     text-align: center;
 }
@@ -130,7 +130,7 @@ img{
 }
 
 .brnd{
-    width: 87vw;
+    width: 64vw;
     font-size: 40px;
     line-height: 33px;
     margin-left: 13.9%;
@@ -147,7 +147,7 @@ li{
 }
 
 .con{
-    width: 100vw;
+    width: 93vw;
     margin-left: 4.5%;
     margin-top: 30%;
 }
@@ -167,7 +167,7 @@ li{
 
 .kind{
     align-items: center;
-    width: 100vw;
+    width: 96vw;
     margin-top: 20%;
 }
 
